@@ -1,5 +1,7 @@
 # best-cs-1.6-servers
 
-cs10.csduragi.net
+95.173.173.10
 
-ts3 : riziko
+Cs10.Oyna.La
+
+ts3 : payidarailesi
